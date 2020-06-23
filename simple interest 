@@ -1,0 +1,28 @@
+Simple Interest"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 12,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "The simple interest is 6.00\n"
+     ]
+    }
+   ],
+   "source": [
+    "p=100\n",
+    "t=2\n",
+    "r=3\n",
+    "si=(p*t*r)/100\n",
+    "print('The simple interest is %0.2f'%si)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
